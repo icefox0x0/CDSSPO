@@ -9,7 +9,7 @@
 <br>当前网站主要功能：
 <li>宣传</li>
 <li>筹款</li>
-如遇任何社团方面的问题，可以联系[社团](tencent://message/?uin=3934217976&Site=&Menu=yes)
+如遇任何社团方面的问题，可以联系 社团qq:3934217976
 
 *  *  *
 
@@ -22,7 +22,7 @@
 ```bash
 git clone https://github.com/icefox0x0/CDSSPO.git
 ```
-如遇任何开发方面的问题，可以联系[开发](tencent://message/?uin=2286142&Site=&Menu=yes)
+如遇任何开发方面的问题，可以联系 宣传qq:2286142
 
 
 ## 特别鸣谢
