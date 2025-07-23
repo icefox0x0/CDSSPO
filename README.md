@@ -1,7 +1,7 @@
 # 欢迎来到  **成都石室爱乐协会**！
 
 *  *  *
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1d8e4760-398e-4de5-b058-3c9676885692/deploy-status)](https://app.netlify.com/projects/cdsspa/deploys)
 ## 团队简介
 **成都石室爱乐协会**（**Chengdu Shi Shi Philharmonic Association**，简称**CDSSPA**），由成都石室中学文庙校区爱乐协会创立并负责的，专注于音乐分享，
 
@@ -30,5 +30,4 @@ git clone https://github.com/icefox0x0/CDSSPO.git
 
 特别感谢校爱乐协会社长 小孔 和宣传 小郑 的大力支持，以及来自同仁们的捐赠！
 
-<hr>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1d8e4760-398e-4de5-b058-3c9676885692/deploy-status)](https://app.netlify.com/projects/cdsspa/deploys)
+
